@@ -1,0 +1,8 @@
+﻿requests==2.32.3
+beautifulsoup4==4.12.3
+pytube==15.0.0
+yt-dlp==2024.8.6
+django==4.1.13
+python-dotenv==1.0.1
+
+django-cors-headers==4.4.0
